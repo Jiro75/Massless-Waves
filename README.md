@@ -13,3 +13,12 @@ We've also produced an animated infographic video to express the idea more ..
   <br>
 
 ![Screenshot 2024-12-30 030229](https://github.com/user-attachments/assets/dfdcbc5a-9bc6-44a9-bf11-739ce53b9b22)
+
+## Contributors
+- Mostafa Hany
+- Mostafa Hazem
+- Muhammad Nasser
+
+## 📞 Contact
+Email: Mostafahany4705@gmail.com <br>
+LinkedIn: www.linkedin.com/in/mostafahany4705
