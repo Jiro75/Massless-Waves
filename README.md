@@ -10,9 +10,9 @@ Our proposal is divided to the following:
 - And lastly, a section for the research papers we were inspired by.
   
 We've also produced an animated infographic video to express the idea more ..
-  <br>
+  <br><br>
+![Screenshot 2025-06-15 234519](https://github.com/user-attachments/assets/155289dc-59d1-4745-a7b3-af9932ed292c)
 
-![Screenshot 2024-12-30 030229](https://github.com/user-attachments/assets/dfdcbc5a-9bc6-44a9-bf11-739ce53b9b22)
 
 ## 🦸‍♂️ Contributors
 - Mostafa Hany
